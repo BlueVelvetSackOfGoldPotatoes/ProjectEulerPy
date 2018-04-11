@@ -3,7 +3,7 @@
 #          Multiples of 3 and 5
 
 # As written by Gonçalo Hora de Carvalho
-# 24-12-17, Groningen Netherlands
+# 11-4-18, Groningen Netherlands
 
 sumz = 0
 for i in range(0, 1000):
