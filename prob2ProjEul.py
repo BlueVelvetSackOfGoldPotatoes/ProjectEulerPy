@@ -7,8 +7,8 @@ while term <= 4000000:
   if anotherTerm % 2 == 0:
     sumz = sumz + anotherTerm
     
-   term = nexTerm
-   nexTerm = anotherTerm
-   anotherTerm = term + nexTerm
+  term = nexTerm
+  nexTerm = anotherTerm
+  anotherTerm = term + nexTerm
 	
 print(sumz)
